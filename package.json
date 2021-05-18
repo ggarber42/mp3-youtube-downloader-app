@@ -1,0 +1,20 @@
+{
+  "name": "mp3tube",
+  "version": "0.1.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "ggarber",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^12.0.8",
+    "electron-packager": "^15.2.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.0.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "ytdl-core": "^4.8.0"
+  }
+}
